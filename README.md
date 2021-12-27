@@ -1,3 +1,14 @@
+## About Me
+- 🔭 I’m currently working on improving my website clones to include more features.
+- 💬 Ask me about my projects and collaboration opportunities!
+- 📫 How to reach me: Please click on the links below found on "Contact Me!"
+- ⚡ Fun fact: I have ran marathons in Paris and Norway and hope to participate in the New York City one this year.
+                                                                            
+## Contact Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ann-donnelly/)
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/ann-donnelly-1)
+
+## Technologies Used
 <p>
 <!-- languages -->
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -37,19 +48,18 @@
 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)"/>
 <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)"/>
 <p/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anndonnelly&count_private=true&show_icons=true&theme=tokyonight" />
+                                                                                                                                             
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndonnelly&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anndonnelly&count_private=true&show_icons=true&theme=tokyonight" />\
 <!--
 **anndonnelly/anndonnelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
