@@ -1,5 +1,5 @@
 ## About Me
-- 🔭 I’m currently working on improving my website clones to include more features.
+- 🔭 Software Developer
 - 💬 Ask me about my projects and collaboration opportunities!
 - 📫 How to reach me: Please click on the links below found on "Contact Me!"
 - ⚡ Fun fact: I have ran marathons in Paris and Norway and hope to participate in the New York City marathon this year.
